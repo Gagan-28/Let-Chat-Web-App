@@ -1,0 +1,25 @@
+#div_1
+{
+    background-color: purple;
+    height: 30%;
+    padding: 50px;
+}
+h1
+{
+    font-weight: bold;
+    color: pink;
+}
+#user_name
+{
+    border-radius: 10px;
+    width: 70%;
+}
+#enter_password
+{
+    border-radius: 10px;
+    width: 70%;
+}
+#login_button
+{
+    width: 30%;
+}
